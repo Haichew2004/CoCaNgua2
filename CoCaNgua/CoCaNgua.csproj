@@ -80,7 +80,22 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Content Include="Resources\background.jpg" />
+    <Content Include="Resources\chessboard.jpg" />
+    <Content Include="Resources\dice_1.png" />
+    <Content Include="Resources\dice_2.png" />
+    <Content Include="Resources\dice_3.png" />
+    <Content Include="Resources\dice_4.png" />
+    <Content Include="Resources\dice_5.png" />
+    <Content Include="Resources\dice_6.png" />
+    <Content Include="Resources\panelrd.jpg" />
+    <Content Include="Resources\possible_move.png" />
+    <Content Include="Resources\sea_horse_blue.png" />
+    <Content Include="Resources\sea_horse_green.png" />
+    <Content Include="Resources\sea_horse_red.png" />
+    <Content Include="Resources\sea_horse_yellow.png" />
+  </ItemGroup>
   <ItemGroup>
     <None Include="Resources\Blue2.png" />
   </ItemGroup>

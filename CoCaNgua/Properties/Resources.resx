@@ -118,7 +118,49 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="background" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\background.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="Blue2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Blue2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="chessboard" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\chessboard.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dice_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dice_1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dice_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dice_2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dice_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dice_3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dice_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dice_4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dice_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dice_5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dice_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dice_6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="panelrd" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\panelrd.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="possible_move" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\possible_move.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sea_horse_blue" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sea_horse_blue.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sea_horse_green" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sea_horse_green.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sea_horse_red" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sea_horse_red.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sea_horse_yellow" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sea_horse_yellow.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
